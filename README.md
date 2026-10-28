@@ -9,8 +9,8 @@ Este repositorio contiene el código fuente, la ejecución experimental, los dat
 - `docs/`: Documentación del proyecto, incluyendo el manuscrito del artículo científico (`manuscrito.pdf`) y las diapositivas de sustentación (`diapositiva.pdf`).
 
 ## Algoritmos Seleccionados
-- **Método Directo:** [Inserción]
-- **Método Logarítmico:** [Quicksort]
+- **Método Directo:** [Metodo de seleción]
+- **Método Logarítmico:** [MergeSort]
 
 ## Entorno de Pruebas
 - **CPU:** 
