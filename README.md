@@ -13,7 +13,7 @@ Este repositorio contiene el código fuente, la ejecución experimental, los dat
 * **Método Logarítmico:** Merge Sort
 
 ## Entorno de Pruebas
-* **CPU:** Intel Core i5 / AMD Ryzen (o el procesador que tenga tu laptop)
+* **CPU:** AMD Ryzen 5 7520U with Radeon Graphics
 * **RAM:** 16GB
 * **Sistema Operativo:** Windows 
 * **Compilador:** MSYS2 UCRT64 (g++)
