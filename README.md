@@ -10,9 +10,9 @@ Este proyecto evalúa el rendimiento empirico y la complejidad temporal de algor
 ---
 
 ## 2. Algoritmos Seleccionados
-- Selection Sort (O(n^2))
+- Selection Sort (`O(n^2)`)
 
-- Merge Sort (O(n \log n))
+- Merge Sort (`O(n \log n)`)
 
 ## 3. Requisitos de Compilación y Ejecución
 Hardware y Sistema Operativo
