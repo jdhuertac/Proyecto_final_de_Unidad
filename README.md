@@ -68,5 +68,10 @@ analysis/graficos_y_estadistica.ipynb: Script de Python que lee el archivo CSV, 
 4. Rigurosidad: La media de 30 repeticiones neutralizó eficazmente la variabilidad e interferencias causadas por los procesos del sistema operativo.
 
 ## 8. Link del video de youtube   
+https://youtu.be/gpqG3YxhVFI
 
 ## 9. ID del commit final
+c19c4d8
+
+https://youtu.be/gpqG3YxhVFI
+
