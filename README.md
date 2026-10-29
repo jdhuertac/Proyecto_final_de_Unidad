@@ -25,15 +25,21 @@ Entorno para Análisis de Datos: Python 3 (Google Colab / Jupyter Notebook) con 
 
 ## 4. Instrucciones para reproducir los experimentos 
 Clonar el repositorio o navegar hasta la carpeta con el código fuente en C++:
+
 cd src/
 
+
 Compilar el archivo de C++ con el flag de optimización -O2:
+
 g++ -O2 Proyecto_2.cpp -o benchmark
 
+
 Ejecutar el ejecutable para iniciar la prueba automatizada:
+
 ./benchmark
 
-El programa procesará todas las iteraciones y guardará automáticamente los datos en resultados_experimento.csv.
+
+El programa procesará todas las iteraciones y guardará automáticamente los datos en: resultados_experimento.csv.
 
 ## 5. Tamaño, patrones y semillas utilizados
 Tamaños de entrada 
