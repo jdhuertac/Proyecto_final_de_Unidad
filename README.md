@@ -20,7 +20,7 @@ Componentes:[Procesador AMD Ryzen 5 7520U with Radeon Graphics, 16 GB de ram]
 Software y Herramientas:
 Compilador: g++ con soporte completo para el estándar C++17.   
 Banderas de compilación: Optimización -O2 habilitada.   
-Librerías de C++ utilizadas: <chrono> (steady_clock), <random> (std::mt19937), <fstream>, <vector>, <iostream>.   
+Librerías de C++ utilizadas: chrono steady_clock, random std::mt19937, fstream, vector, iostream.   
 Entorno para Análisis de Datos: Python 3 (Google Colab / Jupyter Notebook) con las librerías pandas, matplotlib y seaborn.
 
 ## 4. Instrucciones para reproducir los experimentos 
