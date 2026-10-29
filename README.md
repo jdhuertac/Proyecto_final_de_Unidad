@@ -63,9 +63,9 @@ results/resultados_experimento.csv: Contiene la recolección cruda de las medici
 analysis/graficos_y_estadistica.ipynb: Script de Python que lee el archivo CSV, calcula la media, mediana, desviación estándar, mínimo y máximo.
 
 ## 7. Principales Resultados y Conclusiones
-1. Selection Sort ($O(n^2)$): Mantuvo un comportamiento rígido e inalterable ante cualquier patrón de datos, realizando exactamente $C(n) = \frac{n(n-1)}{2}$ comparaciones. Para $n = 10,000$, superó promedios de 360 ms.
-2. Merge Sort ($O(n \log n)$): Demostró una superioridad drástica en eficiencia, manteniendo tiempos por debajo de los 6 ms incluso para $n = 10,000$ y conservando la estabilidad de los datos.
-3. Rigurosidad: La media de 30 repeticiones neutralizó eficazmente la variabilidad e interferencias causadas por los procesos del sistema operativo.
+1. Selection Sort (`O(n^2)`): Mantuvo un comportamiento rígido e inalterable ante cualquier patrón de datos, realizando exactamente $C(n) = \frac{n(n-1)}{2}$ comparaciones. Para $n = 10,000$, superó promedios de 360 ms.
+2. Merge Sort (`O(n \log n)`): Demostró una superioridad drástica en eficiencia, manteniendo tiempos por debajo de los 6 ms incluso para $n = 10,000$ y conservando la estabilidad de los datos.
+4. Rigurosidad: La media de 30 repeticiones neutralizó eficazmente la variabilidad e interferencias causadas por los procesos del sistema operativo.
 
 ## 8. Link del video de youtube   
 
