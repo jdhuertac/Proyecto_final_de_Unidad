@@ -24,22 +24,22 @@ Librerías de C++ utilizadas: chrono steady_clock, random std::mt19937, fstream,
 Entorno para Análisis de Datos: Python 3 (Google Colab / Jupyter Notebook) con las librerías pandas, matplotlib y seaborn.
 
 ## 4. Instrucciones para reproducir los experimentos 
-Clonar el repositorio o navegar hasta la carpeta con el código fuente en C++:
+1. Clonar el repositorio o navegar hasta la carpeta con el código fuente en C++:
 
 cd src/
 
 
-Compilar el archivo de C++ con el flag de optimización -O2:
+2. Compilar el archivo de C++ con el flag de optimización -O2:
 
 g++ -O2 Proyecto_2.cpp -o benchmark
 
 
-Ejecutar el ejecutable para iniciar la prueba automatizada:
+3. Ejecutar el ejecutable para iniciar la prueba automatizada:
 
 ./benchmark
 
 
-El programa procesará todas las iteraciones y guardará automáticamente los datos en: resultados_experimento.csv.
+4. El programa procesará todas las iteraciones y guardará automáticamente los datos en: resultados_experimento.csv.
 
 ## 5. Tamaño, patrones y semillas utilizados
 Tamaños de entrada 
